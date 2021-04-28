@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...python projects
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...python projects
-- 📫 How to reach me ...sayyam134@gmail.com
+- 📫 How to reach me ... sayyam134@gmail.com
 
 <!---
 sayyam134/sayyam134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
